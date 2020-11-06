@@ -1,8 +1,8 @@
-name: OHBM2021-wannabe MiniConf
-tagline: Welcome <br> to <br> OHBM2021-wannabe 
-date: November 2020
-citation_date: November 2020
-proceedings_title: Proceedings of the First MiniCon OHBM
+name: MiniConf
+tagline: MINICONF <br> CONFERENCE <br> MANAGEMENT
+date: May 2020
+citation_date: May 2020
+proceedings_title: Proceedings of the First MiniCon Conference
 analytics: UA-
 logo:
   image: static/images/MiniConf.png
@@ -11,10 +11,10 @@ logo:
 # uncomment the following line to show the site title next to the logo image
 # site_title: MiniConf
 page_title:
-  prefix: 'OHBM-wannabe 2020'
+  prefix: 'MiniConf 2020'
   separator: ': '
 background_image: static/images/main.jpg
-organization: OHBM-wannabe 2020 Organization Committee
+organization: MiniConf Organization Committee
 
 # Remove or change to your chat server.
 chat_server: miniconf.sloppy.zone
