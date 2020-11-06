@@ -40,7 +40,7 @@ When you are ready to deploy run `make freeze` to get a static version of the si
 
 The <a href="https://github.com/Mini-Conf/Mini-Conf">MiniConf</a> repo:
 
-1) *Datastore* <a href="https://github.com/Mini-Conf/Mini-Conf/tree/master/sitedata">`sitedata/`</a>
+1) *Datastore* <a href="https://github.com/Mini-Conf/Mini-Conf/tree/master/sitedata_ohbm2020">`sitedata_ohbm2020/`</a>
 
 Collection of CSV files representing the papers, speakers, workshops, and other important information for the conference.
 

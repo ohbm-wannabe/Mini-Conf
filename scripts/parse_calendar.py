@@ -18,7 +18,7 @@ def parse_arguments():
     )
 
     parser.add_argument(
-        "--out", default="../sitedata/main_calendar.json", help="ICS file to parse"
+        "--out", default="../sitedata_ohbm2020/main_calendar.json", help="ICS file to parse"
     )
 
     return parser.parse_args()
